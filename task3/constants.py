@@ -1,0 +1,1 @@
+log_types = ["INFO", "DEBUG", "ERROR", "WARNING"] 
